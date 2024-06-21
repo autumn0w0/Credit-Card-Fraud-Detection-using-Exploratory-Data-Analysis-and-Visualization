@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-using-Exploratory-Data-Analysis-and-Visualization-EDAV-
+This repository contains a Credit Card Fraud Detection project leveraging EDAV. It includes data preprocessing, feature engineering, and various machine learning models to identify fraudulent transactions. Comprehensive analysis and visualizations aid in understanding patterns and improving model performance for accurate detection.
